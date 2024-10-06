@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TermiiTest.Api.props" />
+</Project>

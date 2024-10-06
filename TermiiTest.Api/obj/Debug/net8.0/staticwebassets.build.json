@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "onnsMC7u51pA6YyUtDT552f8DJL4kyiMN6i4rh6IibU=",
+  "Source": "TermiiTest.Api",
+  "BasePath": "_content/TermiiTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
