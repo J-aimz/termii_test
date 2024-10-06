@@ -1,0 +1,8 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
